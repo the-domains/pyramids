@@ -1,0 +1,28 @@
+name: pyramids
+favicon: null
+layout_spectrum: 0.04396354756318033
+typography_spectrum: 0.952974651940167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5786234124097973
+  lightness: 0.41768648801371455
+  saturation: 0.7384474750142545
+  rhythmicContrast: 0.4603547875303775
+purpose: []
